@@ -1,5 +1,8 @@
 /.vscode/
 
+# Ignore log files
+*.log
+
 temp/
 
 log/
